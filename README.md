@@ -1,2 +1,2 @@
-# Projeto---FHGP
-Projeto do Filipe, Hugo, Gustavo e Pedro
+# E-commerce Front
+Projeto do meu primeiro e-commerce
