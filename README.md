@@ -1,1 +1,2 @@
-# ecommerce_front
+# Projeto---FHGP
+Projeto do Filipe, Hugo, Gustavo e Pedro
