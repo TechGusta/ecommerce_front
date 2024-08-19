@@ -3,3 +3,8 @@
     margin-top: 5vw;
     margin-bottom: 5vw;
 }
+
+.carousel-item {
+    position: relative;
+    height: 70vh;
+}
