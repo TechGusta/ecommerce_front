@@ -2,6 +2,7 @@ var express = require("express");
 var app = express();
 var cors = require("cors");
 var fs = require("fs");
+const path = require("path")
 
 app.use(express.json());
 app.use(cors({ 
@@ -10,7 +11,7 @@ app.use(cors({
   allowedHeaders: ['Content-Type', 'Authorization']
 }));
 
-app.use(express.static('public'));
+app.use(express.static(path.join(__dirname)));
 
 let dataFile = 'db.json';
 
