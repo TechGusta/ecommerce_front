@@ -4,6 +4,20 @@
     margin-bottom: 5vw;
 }
 
+.presentation .row{
+    justify-content: space-between;
+    padding: 10vh 0;
+}
+
+.presentation .row .col{
+    width: 40vw;
+    margin-inline: 1vw !important;
+}
+
+.presentation .row p{
+    text-align: justify;
+}
+
 .carousel-item {
     position: relative;
     height: 70vh;
